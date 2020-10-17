@@ -16,7 +16,7 @@ pipeline{
         branch 'develop'
        }
       steps{
-        echo "deploy to nexus"
+        echo "deploy to nexus "
       }
     }
     
